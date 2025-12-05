@@ -5,4 +5,5 @@ Instructions:
 2. Copy the repository URL (HTTPS or SSH).
 3. Paste the URL below and save the file.
 
-Repository URL: 
+Repository URL: https://github.com/CCompton-egg/Tic-Tac-Toe-Group-Project.git
+
