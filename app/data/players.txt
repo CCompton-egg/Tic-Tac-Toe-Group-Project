@@ -1,0 +1,4 @@
+nickname,wins,losses
+Cole 2,0,1
+Cole,3,0
+Other guy,0,2
