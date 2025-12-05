@@ -1,9 +1,0 @@
-PLACEHOLDER: Add your repository URL here after you create it on GitHub.
-
-Instructions:
-1. Create a new repository on GitHub (https://github.com/new).
-2. Copy the repository URL (HTTPS or SSH).
-3. Paste the URL below and save the file.
-
-Repository URL: https://github.com/CCompton-egg/Tic-Tac-Toe-Group-Project.git
-
